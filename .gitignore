@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+tweets/*.xlsx
+*.zip
+trainingandtestdata/*.csv
+log/*.log
